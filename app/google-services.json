@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193662069083",
+    "project_id": "androidnotification-e3033",
+    "storage_bucket": "androidnotification-e3033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193662069083:android:5e87d268490b416d1b927e",
+        "android_client_info": {
+          "package_name": "com.adnanamhar.androidnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193662069083-hhokk842og2e09aj5k084h38g3ho9rje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqy-Abk0zomzriA2SHoDFaabjkzDR3hBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193662069083-hhokk842og2e09aj5k084h38g3ho9rje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
