@@ -27,9 +27,7 @@ import com.google.firebase.iid.InstanceIdResult;
 import static androidx.core.app.NotificationCompat.PRIORITY_DEFAULT;
 
 public class MainActivity extends AppCompatActivity {
-//  1.Notification Channel
-//  2.Notification Builder
-//  3.Notification Manager
+
 
     private EditText editTextEmail, editTextPassword;
     private ProgressBar progressBar;
